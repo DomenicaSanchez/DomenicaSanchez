@@ -1,104 +1,68 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7b2cbf&height=200&section=header&text=Doménica%20Camila%20Sánchez&fontSize=50&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7b2cbf&height=200&section=header&text=Dom%C3%A9nica%20Camila%20S%C3%A1nchez&fontSize=48&animation=fadeIn&fontAlignY=38" width="100%" />
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=bc6cff&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Cybersecurity+Enthusiast;Ethical+Hacker+in+Training;Backend+Developer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=BC6CFF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Cybersecurity+Enthusiast;Ethical+Hacker+in+Training;SOC+%26+SecOps+Analyst)](https://git.io/typing-svg)
 </div>
 
-### 🚀 Sobre Mí
+<br>
 
-> Soy una estudiante de **Ingeniería en Software** apasionada por la **Ciberseguridad y el Hacking Ético**. Cuento con experiencia en análisis de vulnerabilidades, simulación de ataques y desarrollo seguro de backend. Mi enfoque es construir soluciones innovadoras que prioricen la integridad y seguridad de los datos.
+### 👤 Profile Summary
 
-* 📍 **Ubicación:** Quito, Ecuador
-* 🛡️ **Intereses:** Pentesting, Análisis de Tráfico y Microservicios
-* 🌱 **Aprendizaje actual:** Ecosistemas de Ciberseguridad e Inteligencia de Amenazas
+> *Software Engineering Student passionate about **Cybersecurity, SOC Operations, and Ethical Hacking**. Focused on threat detection, security alert triage, and automated security workflows.*
 
----
-
-### 🛠️ Proyectos Destacados
-
-| 📂 Proyecto | 🔍 Detalles Técnicos |
-| :--- | :--- |
-| **Simulación MITM** | Análisis de tráfico ARP/DNS y ejecución de ataques controlados con Ettercap y campañas de phishing con SET. |
-| **Backend Banco de Alimentos** | Estructuración de lógica de negocio en microservicios, optimizando seguridad y escalabilidad. |
-
----
-
-### 📜 Certificaciones & Formación
-
-| 🏅 Credencial | 🏢 Institución | 📅 Fecha |
+| 📍 Location | 🛡️ Key Focus Areas | 🌱 Communities & Learning |
 | :--- | :--- | :--- |
-| **Junior Cybersecurity Analyst** | Cisco Networking Academy | Junio 2024 |
-| **Cybersecurity Fundamentals** | TryHackMe (Advent of Cyber) | Enero 2026 |
+| Quito, Ecuador | Threat Detection, SOC Ops, Data Analysis, CTFs | Bug Bounties Girls Arg, CyberMinds, TryHackMe |
 
 ---
-### 💻 Tech Stack 
+
+### 🛡️ Core Capabilities & Experience
+
+* 🔍 **Security Monitoring & Triage:** Hands-on analysis of security alerts using **SIEM, WAF, EDR**, and **IDS/IPS** systems.
+* ⚡ **Automation & Cloud Data:** Development of automated security workflows using **Power Automate** and custom scripts for data management.
+* 🧪 **Vulnerability Assessment:** Execution of controlled **phishing simulations** and **ARP/DNS network vulnerability analysis**.
+
+---
+
+### 🏆 Badges & Certifications
+
+| Certification / Badge | Issuing Organization | Status / Focus |
+| :--- | :--- | :---: |
+| 🛡️ **Network Defense Essentials** | EC-Council | Verified |
+| 🔍 **OSINT: Open Source Intelligence** | ESET Cybersecurity | Verified |
+| 🎄 **Cybersecurity Fundamentals** | TryHackMe (Advent of Cyber) | Completed |
+| 🎓 **Junior Cybersecurity Analyst** | Cisco Networking Academy | Verified |
+
+---
+
+### 💻 Technical Ecosystem
+
 <div align="center">
 
-| ⚡ Lenguajes | 🛡️ Cybersecurity | ⚙️ Backend & DB |
-| :--- | :--- | :--- |
-| `Python` `Java` | `Nmap` `Wireshark` | `Microservicios` |
-| `JavaScript` `C++` | `Ettercap` `Metasploit` | `SQL` `PostgreSQL` |
+| Domain | Stack & Tooling |
+| :--- | :--- |
+| **Programming & Scripting** | `Python` • `Java` • `C++` • `JavaScript` • `PowerShell` |
+| **SecOps & Analysis** | `Nmap` • `Wireshark` • `CrowdStrike` • `Adlumin` • `Kali Linux` |
 
 <br>
 
 <img src="https://skillicons.dev/icons?i=py,java,js,cpp,linux,postgres,git,github,vscode,idea,discord&theme=dark" />
+
 </div>
 
 ---
 
-### 📊 EStadísticas
+### 📫 Connect with Me
 
 <div align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/DomenicaSanchez/Dsmcamila/master/profile-summary-card-output/dracula/0-profile-details.svg" width="98%" style="border-radius: 10px;" />
-  </a>
 
-  <br>
-
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-          <img src="https://raw.githubusercontent.com/DomenicaSanchez/Dsmcamila/master/profile-summary-card-output/dracula/1-repos-per-language.svg" width="100%" />
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-          <img src="https://raw.githubusercontent.com/DomenicaSanchez/Dsmcamila/master/profile-summary-card-output/dracula/2-most-commit-language.svg" width="100%" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-          <img src="https://raw.githubusercontent.com/DomenicaSanchez/Dsmcamila/master/profile-summary-card-output/dracula/3-stats.svg" width="100%" />
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-          <img src="https://raw.githubusercontent.com/DomenicaSanchez/Dsmcamila/master/profile-summary-card-output/dracula/4-productive-time.svg" width="100%" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 📫 Contacto
-<div align="center">
-
-<a href="mailto:camisanchez.cursos@gmail.com">
-  <img src="https://img.shields.io/badge/Email-camisanchez.cursos@gmail.com-7b2cbf?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/tu-usuario">
-  <img src="https://img.shields.io/badge/LinkedIn-Camila_Sánchez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+[![Email](https://img.shields.io/badge/Email-camisanchez.cursos%40gmail.com-7b2cbf?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camisanchez.cursos@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Camila_Sánchez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dsmcamila)
 
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7b2cbf&height=80&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7b2cbf&height=80&section=footer" width="100%" />
 </div>
